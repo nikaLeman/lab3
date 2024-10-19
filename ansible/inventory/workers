@@ -1,12 +1,12 @@
 [ansible_master]
-ansible-ansible-1
+test3-ansible-1
 
 [database]
-ansible-app-3
+test3-app-3
 
 [application]
-ansible-app-1
-ansible-app-2
+test3-app-1
+test3-app-2
 
 [webapp:children]
 database
