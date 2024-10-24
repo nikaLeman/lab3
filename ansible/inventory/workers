@@ -1,5 +1,5 @@
 [ansible_master]
-ansible-ansible-1
+task2-ansible-1
 
 [database]
 ansible-app-3
