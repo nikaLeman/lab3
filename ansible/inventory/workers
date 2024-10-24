@@ -1,12 +1,12 @@
 [ansible_master]
-task2-ansible-1
+workspace-ansible-1
 
 [database]
-ansible-app-3
+workspace-app-3
 
 [application]
-ansible-app-1
-ansible-app-2
+workspace-app-1
+workspace-app-2
 
 [webapp:children]
 database
